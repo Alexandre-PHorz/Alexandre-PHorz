@@ -19,7 +19,6 @@ Clica nos badges abaixo pra me seguir nas redes:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-PHorz&hide_title=True&layout=compact&&theme=transparent&card_width=800)
 
 
 
