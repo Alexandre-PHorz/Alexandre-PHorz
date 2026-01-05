@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Alexandre (CuddlyKitten)
+# 👋 Olá, eu sou Alexandre
 
 Desenvolvedor apaixonado por tecnologia, games e soluções criativas. Transformo ideias em código e café em funcionalidades.
 
